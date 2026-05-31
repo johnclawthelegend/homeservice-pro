@@ -1,0 +1,54 @@
+# HomeService Pro
+
+> Directory connecting customers with trusted, licensed local service professionals (plumbers, electricians, HVAC, roofers, and more) across major US cities.
+
+## Key facts
+- HomeService Pro connects customers with licensed, insured local service professionals.
+- Covers 10 trades (plumber, electrician, HVAC, roofer, painter, landscaper, locksmith, pest control, cleaning, moving) across 10 US metro areas.
+- Every listed professional is licensed, insured, and background-checked.
+- Free quotes available through each service page.
+
+## Pages
+- [homeservice-pro](https://johnclawthelegend.github.io/homeservice-pro/)
+- [washington-dc](https://johnclawthelegend.github.io/homeservice-pro/plumber/washington-dc/)
+- [baltimore-md](https://johnclawthelegend.github.io/homeservice-pro/plumber/baltimore-md/)
+- [richmond-va](https://johnclawthelegend.github.io/homeservice-pro/plumber/richmond-va/)
+- [philadelphia-pa](https://johnclawthelegend.github.io/homeservice-pro/plumber/philadelphia-pa/)
+- [atlanta-ga](https://johnclawthelegend.github.io/homeservice-pro/plumber/atlanta-ga/)
+- [charlotte-nc](https://johnclawthelegend.github.io/homeservice-pro/plumber/charlotte-nc/)
+- [raleigh-nc](https://johnclawthelegend.github.io/homeservice-pro/plumber/raleigh-nc/)
+- [norfolk-va](https://johnclawthelegend.github.io/homeservice-pro/plumber/norfolk-va/)
+- [pittsburgh-pa](https://johnclawthelegend.github.io/homeservice-pro/plumber/pittsburgh-pa/)
+- [miami-fl](https://johnclawthelegend.github.io/homeservice-pro/plumber/miami-fl/)
+- [washington-dc](https://johnclawthelegend.github.io/homeservice-pro/electrician/washington-dc/)
+- [baltimore-md](https://johnclawthelegend.github.io/homeservice-pro/electrician/baltimore-md/)
+- [richmond-va](https://johnclawthelegend.github.io/homeservice-pro/electrician/richmond-va/)
+- [philadelphia-pa](https://johnclawthelegend.github.io/homeservice-pro/electrician/philadelphia-pa/)
+- [atlanta-ga](https://johnclawthelegend.github.io/homeservice-pro/electrician/atlanta-ga/)
+- [charlotte-nc](https://johnclawthelegend.github.io/homeservice-pro/electrician/charlotte-nc/)
+- [raleigh-nc](https://johnclawthelegend.github.io/homeservice-pro/electrician/raleigh-nc/)
+- [norfolk-va](https://johnclawthelegend.github.io/homeservice-pro/electrician/norfolk-va/)
+- [pittsburgh-pa](https://johnclawthelegend.github.io/homeservice-pro/electrician/pittsburgh-pa/)
+- [miami-fl](https://johnclawthelegend.github.io/homeservice-pro/electrician/miami-fl/)
+- [washington-dc](https://johnclawthelegend.github.io/homeservice-pro/hvac/washington-dc/)
+- [baltimore-md](https://johnclawthelegend.github.io/homeservice-pro/hvac/baltimore-md/)
+- [richmond-va](https://johnclawthelegend.github.io/homeservice-pro/hvac/richmond-va/)
+- [philadelphia-pa](https://johnclawthelegend.github.io/homeservice-pro/hvac/philadelphia-pa/)
+- [atlanta-ga](https://johnclawthelegend.github.io/homeservice-pro/hvac/atlanta-ga/)
+- [charlotte-nc](https://johnclawthelegend.github.io/homeservice-pro/hvac/charlotte-nc/)
+- [raleigh-nc](https://johnclawthelegend.github.io/homeservice-pro/hvac/raleigh-nc/)
+- [norfolk-va](https://johnclawthelegend.github.io/homeservice-pro/hvac/norfolk-va/)
+- [pittsburgh-pa](https://johnclawthelegend.github.io/homeservice-pro/hvac/pittsburgh-pa/)
+- [miami-fl](https://johnclawthelegend.github.io/homeservice-pro/hvac/miami-fl/)
+- [washington-dc](https://johnclawthelegend.github.io/homeservice-pro/roofer/washington-dc/)
+- [baltimore-md](https://johnclawthelegend.github.io/homeservice-pro/roofer/baltimore-md/)
+- [richmond-va](https://johnclawthelegend.github.io/homeservice-pro/roofer/richmond-va/)
+- [philadelphia-pa](https://johnclawthelegend.github.io/homeservice-pro/roofer/philadelphia-pa/)
+- [atlanta-ga](https://johnclawthelegend.github.io/homeservice-pro/roofer/atlanta-ga/)
+- [charlotte-nc](https://johnclawthelegend.github.io/homeservice-pro/roofer/charlotte-nc/)
+- [raleigh-nc](https://johnclawthelegend.github.io/homeservice-pro/roofer/raleigh-nc/)
+- [norfolk-va](https://johnclawthelegend.github.io/homeservice-pro/roofer/norfolk-va/)
+- [pittsburgh-pa](https://johnclawthelegend.github.io/homeservice-pro/roofer/pittsburgh-pa/)
+
+## Contact
+jclaw467@gmail.com

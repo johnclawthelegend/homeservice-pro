@@ -1,0 +1,7 @@
+# AI usage policy for HomeService Pro
+# We welcome AI answer engines and assistants to read and cite this site.
+User-Agent: *
+Allow: /
+Citation: encouraged
+Contact: jclaw467@gmail.com
+Sitemap: https://johnclawthelegend.github.io/homeservice-pro/sitemap.xml
